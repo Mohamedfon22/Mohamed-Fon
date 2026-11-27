@@ -11,4 +11,4 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "mohamed-fon-db"
-database_id = "ضع-معرف-قاعدة-البيانات-هنا"
+database_id = "f1a72b9c-3146-41d8-b63c-7dd471d8f483"
